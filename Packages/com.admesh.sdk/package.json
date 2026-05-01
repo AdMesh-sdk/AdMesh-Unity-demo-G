@@ -1,0 +1,23 @@
+{
+  "name": "com.admesh.sdk",
+  "version": "0.2.5",
+  "displayName": "AdMesh Unity SDK",
+  "description": "Scheduled DTL image and video placement SDK for Unity.",
+  "unity": "2022.3",
+  "keywords": [
+    "admesh",
+    "advertising",
+    "unity",
+    "sdk",
+    "in-game-ads",
+    "dtl"
+  ],
+  "author": {
+    "name": "AdMesh",
+    "url": "https://dev.admesh.cloud"
+  },
+  "documentationUrl": "https://dev.admesh.cloud/docs",
+  "changelogUrl": "https://dev.admesh.cloud/docs",
+  "licensesUrl": "https://www.apache.org/licenses/LICENSE-2.0",
+  "dependencies": {}
+}

@@ -1,0 +1,20 @@
+{
+  "name": "AdMesh",
+  "rootNamespace": "AdMesh",
+  "references": [
+    "UnityEngine.CoreModule",
+    "UnityEngine.JSONSerializeModule",
+    "UnityEngine.UnityWebRequestModule",
+    "UnityEngine.UnityWebRequestTextureModule",
+    "UnityEngine.VideoModule"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

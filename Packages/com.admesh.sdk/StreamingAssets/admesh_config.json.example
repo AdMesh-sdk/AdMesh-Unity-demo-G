@@ -1,0 +1,5 @@
+{
+  "sdkKey": "YOUR_SDK_KEY",
+  "adSelectorUrl": "https://select.admesh.cloud",
+  "eventCollectorUrl": "https://events.admesh.cloud"
+}
